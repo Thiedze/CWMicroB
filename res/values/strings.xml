@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CWMicroB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="left_">"Left: "</string>
+    <string name="right_">"Right: "</string>
+    <string name="_999">999</string>
+
+</resources>
